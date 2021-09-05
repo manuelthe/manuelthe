@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manuelthe
-- 👀 I’m interested in expanding my knowledge of the art of programming
+- 👀 I’m interested in expanding my knowledge on the art of programming
 - 🌱 I’m currently learning python, HTML5
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me (manuelmanuelgonzalez8@gmail.com)
